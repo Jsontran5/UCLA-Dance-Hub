@@ -1,6 +1,6 @@
 # UCLA Dance Hub
 
-_UCLA Dance Hub for UCLA Students and Staff_
+_UCLA Dance Hub for UCLA Students_
 
 This web application aims to inform students about the location and time of events hosted by the dance teams at UCLA. There are pages to view videos and content of each of the dance teams we have at UCLA, as well as see a list of the members. We have implemented a system where users of the website can report future performances from the Dance teams which populates a schedule on the home page and an interactive map. Admins can also add and remove members from the organizations. 
 
